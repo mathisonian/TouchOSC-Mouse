@@ -19,6 +19,6 @@ Your phone and computer have to be on the same wifi network. [or else you have t
 
 ![how to click](http://i.imgur.com/HlkcA23.png)
 
-Hold your phone flat. Roll is left/right, pitch is up/down
+### Hold your phone flat. Roll is left/right, pitch is up/down
 
 ![pitch roll image](http://upload.wikimedia.org/wikipedia/commons/5/54/Flight_dynamics_with_text.png)
