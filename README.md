@@ -22,3 +22,8 @@ Your phone and computer have to be on the same wifi network. [or else you have t
 ### Hold your phone flat. Roll is left/right, pitch is up/down
 
 ![pitch roll image](http://upload.wikimedia.org/wikipedia/commons/5/54/Flight_dynamics_with_text.png)
+
+
+## Dependencies
+
+This is dependent on the javaOSC project: https://github.com/hoijui/JavaOSC. The jars are included in the repo until I get my act together
